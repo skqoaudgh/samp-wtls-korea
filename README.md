@@ -1,4 +1,6 @@
 # SAMP Welcome to Los Santos korea mode
+GTA San Andreas MultiPlayer의 WTLS 서버의 모드를 클론한 자유 장르의 게임모드 입니다. <br>
+[한국 GTA:SA 다음 커뮤니티](http://cafe.daum.net/GTA2)
 
 # Contributing
 이 프로젝트에 기여하는 방법에는 세 가지가 있습니다.<br>
