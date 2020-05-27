@@ -33,7 +33,6 @@ RP모드에 국한된 한국 서버에 새롭고 재밌는 모드를 내보이�
 2. 기획안 작성에 대해 **Issues** 탭에 새로운 이슈를 작성하고 이슈번호를 확인한다. ('#'과 숫자 조합)
     * 기획안 이슈 템플릿을 사용한다.
     * 제목: docs: 기획안 제목 (ex. docs: 공지사항 메시지)
-    * 우측 Labels를 클릭하고 ```proposal```을 선택한다.
 3. 기획안을 proposals 폴더에 작성한다.
     * 제목: 기획안 제목 (ex. 공지사항 메시지)
 4. 변경사항을 **Commit**한다.
@@ -48,7 +47,6 @@ RP모드에 국한된 한국 서버에 새롭고 재밌는 모드를 내보이�
 3. **Issues** 탭에 새로운 이슈를 작성하고 이슈번호를 확인한다. ('#'과 숫자 조합)
     * 개발 이슈 템플릿을 사용한다.
     * 제목: feature: 기획안 제목 (ex. feature: 공지사항 메시지)
-    * 우측 Labels를 클릭하고 ```Enhancement```를 선택한다.
 4. 선택한 기획안에 대한 개발을 진행한다.
 5. 변경사항을 **Commit**한다.
 6. **Pull Request**한다.
@@ -76,9 +74,8 @@ RP모드에 국한된 한국 서버에 새롭고 재밌는 모드를 내보이�
 
 ## 버그 제보
 * **Issues** 탭에 새로운 이슈를 작성한다.
-    * 버그 제보 및 건의 템플릿을 사용한다.
+    * 버그제보 이슈 템플릿을 사용한다.
     * 제목: report: 간략한 버그 설명 (ex. report: 공지사항이 제대로 표시되지 않는 버그)
-    * 우측 Labels를 클릭하고 ```bug```를 선택한다.
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />이 저작물은 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 Unported 라이선스</a>에 따라 이용할 수 있습니다.
