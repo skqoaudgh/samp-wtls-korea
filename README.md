@@ -17,6 +17,9 @@ RP모드에 국한된 한국 서버에 새롭고 재밌는 모드를 내보이�
 4. 버그 수정
 5. 버그 제보
 
+* [이슈 작성 가이드](https://github.com/skqoaudgh/samp-wtls-korea/blob/master/documents/%EC%9D%B4%EC%8A%88%20%EC%9E%91%EC%84%B1%20%EA%B0%80%EC%9D%B4%EB%93%9C.md)
+* [기획안 작성 가이드](https://github.com/skqoaudgh/samp-wtls-korea/blob/master/documents/%EA%B8%B0%ED%9A%8D%EC%95%88%20%EC%9E%91%EC%84%B1%20%EA%B0%80%EC%9D%B4%EB%93%9C.md)
+
 # Pull Request Process
 프로젝트 기여의 시작은 Pull Request입니다. 프로젝트에 기여하기 위해 아래 과정을 따라주세요.
 
